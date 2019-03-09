@@ -10,6 +10,9 @@ I made this kind of quickly it is based from esx_property
 - esx_addoninventory => https://github.com/FXServer-ESX/fxserver-esx_addoninventory
 - esx_datastore => https://github.com/FXServer-ESX/fxserver-esx_datastore
 
+Video:
+https://streamable.com/qk75j
+
 
 Credits:
 
