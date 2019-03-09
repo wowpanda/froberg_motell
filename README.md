@@ -1,6 +1,6 @@
 Froberg_Motell
 
-I made this kind of quickly it is based from esx_property
+fungerar iaf
 
 [REQUIREMENTS]
 
